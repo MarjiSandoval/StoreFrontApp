@@ -1,0 +1,7 @@
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\bin\Debug\05_strings.exe.config
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\bin\Debug\05_strings.exe
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\bin\Debug\05_strings.pdb
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\obj\Debug\05_strings.csproj.AssemblyReference.cache
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\obj\Debug\05_strings.csproj.CoreCompileInputs.cache
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\obj\Debug\05_strings.exe
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\05_strings\obj\Debug\05_strings.pdb

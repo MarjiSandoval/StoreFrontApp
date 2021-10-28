@@ -1,0 +1,7 @@
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe.config
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.pdb
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csproj.CoreCompileInputs.cache
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.exe
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.pdb
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csproj.AssemblyReference.cache

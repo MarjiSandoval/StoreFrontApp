@@ -1,0 +1,6 @@
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.exe.config
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.exe
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.pdb
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.csproj.CoreCompileInputs.cache
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.exe
+C:\Users\momma\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.pdb
